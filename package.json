@@ -1,9 +1,9 @@
 {
-  "name": "idk-just-express-maybe",
-  "version": "1.0.0",
+  "name": "task-management-backend-application",
+  "version": "2.0.3",
   "description": "hello",
   "license": "ISC",
-  "author": "",
+  "author": "Bhavesh Gunwant",
   "type": "module",
   "main": "index.js",
   "scripts": {
