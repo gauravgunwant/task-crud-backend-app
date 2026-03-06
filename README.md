@@ -1,11 +1,11 @@
-# 🚀 Task Management Backend API
+# Task Management Backend API
 
 A clean and structured RESTful backend application built using **Node.js, Express, and MongoDB**.  
 Implements full CRUD operations with middleware logging and environment configuration.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project demonstrates:
 
@@ -18,7 +18,7 @@ This project demonstrates:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Node.js**
 - **Express 5**
@@ -30,7 +30,7 @@ This project demonstrates:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Task-Management-Backend-Application/
@@ -52,9 +52,9 @@ Task-Management-Backend-Application/
 
 ---
 
-## 🔥 API Endpoints
+## API Endpoints
 
-### ➤ Create Task
+### Create Task
 
 ```
 POST /task
@@ -108,7 +108,7 @@ DELETE /task/:id
 
 ---
 
-## 📊 Logging System
+## Logging System
 
 - **Morgan** → Captures request metadata  
   - Method  
@@ -124,20 +124,20 @@ DELETE /task/:id
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone Repository
+### Clone Repository
 
 ```bash
 git clone <your-repo-url>
 cd Task-Management-Backend-Application
 ```
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Setup Environment Variables
+### Setup Environment Variables
 
 Create a `.env` file:
 
@@ -146,7 +146,7 @@ PORT=3000
 MONGO_URI=your_mongodb_connection_string
 ```
 
-### 4️⃣ Run Development Server
+### Run Development Server
 
 ```bash
 npm run dev
@@ -160,7 +160,7 @@ http://localhost:3000
 
 ---
 
-## 📌 Features
+## Features
 
 - RESTful architecture
 - MongoDB integration
@@ -168,8 +168,7 @@ http://localhost:3000
 - Async database handling
 - Modular backend structure
 
+
+Live Project Link : https://task-crud-backend-app.onrender.com
 ---
 
-## 👨‍💻 Author
-
-Bhavesh Gunwant
